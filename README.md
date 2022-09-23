@@ -22,12 +22,13 @@ MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & 
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/112769590/191878926-edc43a37-b039-49c9-89aa-16c4ce84d46c.png)
 
-
-#### footnotes
-[1] Module 2.0.1 Make your way with VBA
-[2] module 2.2.1 create a worksheet for your analysis 
-[3] measure code performance 
 ![example of output after running macros](https://user-images.githubusercontent.com/112769590/191878707-a6242477-b626-42a7-a064-c903c532e364.png)
+
 ![example of the If statment we learned to write](https://user-images.githubusercontent.com/112769590/191878881-4826716e-978a-4236-a686-d4d03bfa34b8.png)
 
+
+#### footnotes
+[^1] Module 2.0.1 Make your way with VBA
+[^2] module 2.2.1 create a worksheet for your analysis 
+[^3] measure code performance 
 
