@@ -29,6 +29,6 @@ MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & 
 
 #### footnotes
 [^1] Module 2.0.1 Make your way with VBA
-[^2] module 2.2.1 create a worksheet for your analysis 
-[^3] measure code performance 
+[^2] module 2.2.1 Create a worksheet for your analysis 
+[^3] module 2.5.3 Measure code performance 
 
